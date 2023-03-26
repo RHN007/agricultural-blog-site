@@ -1,5 +1,7 @@
+
+import Sidebar from '../../components/SideBar/Sidebar';
 import './Setting.css'
-import Sidebar from "../../components/SideBar/SideBar";
+
 
 
 

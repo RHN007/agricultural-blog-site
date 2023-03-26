@@ -1,4 +1,4 @@
-import "./write.css";
+import './Write.css'
 
 export default function Write() {
   return (

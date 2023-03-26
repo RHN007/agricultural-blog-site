@@ -1,5 +1,6 @@
+import Sidebar from "../../components/SideBar/Sidebar";
 import SinglePost from "../../components/SinglePost/SinglePost";
-import Sidebar from "../../components/SideBar/SideBar";
+
 
 import './Single.css'
 
